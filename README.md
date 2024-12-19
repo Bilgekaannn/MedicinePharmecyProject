@@ -1,1 +1,1 @@
-# MedicinePharmecyProject
+# MedicinePharmacyProject
